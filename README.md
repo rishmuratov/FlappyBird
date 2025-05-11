@@ -3,4 +3,5 @@
 В игре есть гравитация, а так же меняющийся фон при движении.
 Работающая система набора очков.
 
-![Schermata-2014-02-11-alle-11 06 37](https://github.com/user-attachments/assets/94e17e24-d175-4b8c-b82b-830bf4d3bf18)
+
+![2025-05-11_08-42-35](https://github.com/user-attachments/assets/685d5dda-230e-42dc-996e-45cafac63757)
